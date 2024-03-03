@@ -1,6 +1,6 @@
 # settings-panel
 
-Primary color: 
+Primary color:
 ```
     --primary-bg: #EEA15A;
 ```
